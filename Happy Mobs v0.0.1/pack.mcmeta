@@ -1,6 +1,8 @@
 {
   "pack": {
-    "description": "Happy Mobs alpha v0.0.1",
-    "pack_format": 84
+    "description": "Happy Mobs V0.0.2",
+    "pack_format": 75,
+    "min_format": 75,
+    "max_format": 75
   }
 }
